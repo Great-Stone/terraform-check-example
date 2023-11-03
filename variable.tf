@@ -2,6 +2,10 @@ variable "aws_region" {
   default = "ap-northeast-2"
 }
 
+variable "instance_type" {
+  default = "m5.large"
+}
+
 variable "cpu_architecture" {
   default = "amd64"
 
