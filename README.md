@@ -7,6 +7,3 @@ check 블록은 테라폼의 구성 실행 상에서 사용자가 검증하고�
 이전에는 무언가 확인 및 검증을 위해서는 output으로 출력하고 사람이 확인해야 했다면, 체크블록을 사용하여 이같은 사람이 검증해야 하는 항목을 자동화 할 수 있는 워크플로를 제공합니다.
 
 [![Terraform Health Check](http://img.youtube.com/vi/kM25wGFrA8s/0.jpg)](https://youtu.be/kM25wGFrA8s)
-
-[<img src="https://img.youtube.com/vi/kM25wGFrA8s/hqdefault.jpg" width="600" height="300"
-/>](https://www.youtube.com/embed/kM25wGFrA8s)
